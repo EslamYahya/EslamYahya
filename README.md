@@ -1,4 +1,4 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" />
 
 <h3 align="center">
   Welcome to Eslam Yahya's Profile!
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20learning%20new%20things;Web%20Development%20Enthusiast;Coffee%20Powered%20Programmer!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&lines=Always+learning+new+things;Web+Development+Enthusiast;Coffee+Powered+Programmer!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,21 +22,22 @@
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack <img src="https://media.giphy.com/media/3o7aCVpQb5y2bEjh6I/giphy.gif" width="28">
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Pug](https://img.shields.io/badge/-Pug-05122A?style=flat&logo=pug)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-### 📊 GitHub Stats
+
+### 📊 GitHub Stats <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="25">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EslamYahya&show_icons=true&theme=radical" alt="Eslam's GitHub Stats" />
@@ -48,9 +49,12 @@
 
 ### 📫 How to Reach Me
 
-- 💌 eslamyahya8@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/eslam-yahya-3a9b97272)
-- 🌐 Portfolio (Coming soon...)
+- 💌 **Email**: eslamyahya8@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/eslam-yahya-3a9b97272](https://www.linkedin.com/in/eslam-yahya-3a9b97272)
+- 🌐 **Portfolio**: *Coming soon... stay tuned* 🚀
 
 ---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House  
+> ✨ Keep building. Keep learning. Keep sipping that coffee.
 
