@@ -16,7 +16,7 @@
 ### 👨‍🎓 About Me
 
 - 🎓 I’m a student at **Hsoub Academy**, **Elzero Web School**, and **Almdrasa**.
-- 💻 Passionate about building cool things with **JavaScript**, **NodeJS**.
+- 💻 Passionate about building cool things with **JavaScript**, **Node.js**.
 - ⚡ Fun Fact: My debugging sessions run on caffeine and vibes ☕💻
 - 🌍 Languages: Arabic (native) • English (intermediate)
 
