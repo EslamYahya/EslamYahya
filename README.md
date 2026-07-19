@@ -37,10 +37,10 @@
 
 ---
 
-### 📊 GitHub Stats <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Mzb2hsemcxdmVxY3FiNjBmcXZsbjQxeDBwczVtMDdsNXhpMzViNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="25">
+### 📊 GitHub Stats <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTk3dHk3bDB3aTY2cGEzZjRnMm4wNGowN3U5bDdlN29weW5sZGhheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wJBYx2Yh84XS4sTzmz/giphy.gif" width="25">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EslamYahya&show_icons=true&theme=radical" alt="Eslam's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EslamYahya&show_icons=true&theme=radical" alt="Eslam's GitHub Stats" />
   <br />
   <img src="https://streak-stats.demolab.com?user=EslamYahya&theme=radical&border_radius=5" alt="Eslam's Streak Stats" />
 </p>
