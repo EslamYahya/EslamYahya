@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 GitHub Stats <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="25">
+### 📊 GitHub Stats <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Mzb2hsemcxdmVxY3FiNjBmcXZsbjQxeDBwczVtMDdsNXhpMzViNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="25">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EslamYahya&show_icons=true&theme=radical" alt="Eslam's GitHub Stats" />
